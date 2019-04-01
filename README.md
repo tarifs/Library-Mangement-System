@@ -1,12 +1,9 @@
 # Laravel 5.4 based system for Library Management System - LMS
 
 Features:
-- Frontend
-- Sequre Login/Register System
+- Frontnd
 - Admin panel and user Panel
-- Book Issue system
-- Book Return System
-- Automatic Fine System
+- Book Issue system.
 
 ## How to use
 
@@ -25,4 +22,5 @@ Don't use without permission.
 
 ## Contact with me
 
-- Social: [Facebook](https://facebook.com/tarifhossaintony01728867397)
+- Social: [Facebook](https://facebook.com/mamun724682)
+- Follow me [Twitter](https://twitter.com/mamun724682)
